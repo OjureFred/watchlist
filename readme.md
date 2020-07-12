@@ -1,10 +1,17 @@
-# WireOnlineNews
+# Watchlist Movie Review Site
 
-This is a Python Project that connects to https://newsapi.org to download news items from leading media houses around the world
+This is a Python Project that connects to https://www.movieapi.com to download movies from  around the world
 
 ## Getting Started
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+
+Since this a python project, clone into your current machine and follow these steps
+
+1. In the download folder create a virtual environment use the command python3 -m venv virtual/
+2. Activate the virtual enviranment
+3. Install dependencies as listed in requirements.txt. Use the command pip3 install -r requirements.txt
+4. Run the projet - python3.x manage.py
 
 ### Prerequisites
 
