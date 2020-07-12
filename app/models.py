@@ -11,8 +11,6 @@ class Movie:
         self.vote_average = vote_average
         self.vote_count = vote_count
 
-
-
 class Review:
 
     all_reviews = []
